@@ -25,19 +25,6 @@ It was completed as part of an internship frontend assignment.
 
 ---
 
-## 📁 Folder Structure
-
-imagine-website/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── main.js
-└── images/
-└── (template/placeholder images)
-
----
-
 ## 📬 Contact
 
 For any questions, feel free to reach out.
